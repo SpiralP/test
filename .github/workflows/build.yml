@@ -14,5 +14,5 @@ jobs:
   fail:
     runs-on: ubuntu-latest
     steps:
-      - name: Fail the build
+      - name: Fail the build v2
         run: exit 1
